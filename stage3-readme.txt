@@ -76,12 +76,3 @@ The layout remains responsive and perfectly aligned across devices, with compact
 
 ---
 
-## Best Practices
-- Ensure all image file names are lowercase, use underscores instead of spaces, and match JSON paths exactly.
-- After CSS changes, **hard refresh** your browser (`Ctrl+F5` or `Cmd+Shift+R`).
-- Keep `events.json` valid — no trailing commas.
-
----
-
-**Author:** Your Name  
-*Task 3 – Dynamic Timeline App with modal popup and perfect alignment*
