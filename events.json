@@ -3,55 +3,55 @@
     "year": 476,
     "title": "Fall of the Western Roman Empire",
     "description": "The fall of the Western Roman Empire marked the end of ancient Rome and the start of the Middle Ages.",
-    "imageURL": "Fall of Berlin Wall.jpeg",
+    "imageURL": "images/Fall of western roman empire.jpeg",
     "category": "History"
   },
   {
     "year": 1440,
     "title": "Invention of the Printing Press",
     "description": "Johannes Gutenberg invents the movable type printing press, revolutionizing the spread of information and learning.",
-    "imageURL": "Printing Press.jpeg",
+    "imageURL": "images/Printing Press.jpeg",
     "category": "Technology"
   },
   {
     "year": 1776,
     "title": "American Declaration of Independence",
     "description": "The United States declares independence from Britain, marking the birth of a new nation.",
-    "imageURL": "American independence.jpeg",
+    "imageURL": "images/American independence.jpeg",
     "category": "Politics"
   },
   {
     "year": 1879,
     "title": "Edison Invents the Practical Light Bulb",
     "description": "Thomas Edison perfects the practical incandescent light bulb, ushering in the age of electric lighting.",
-    "imageURL": "Edison  Light Bulb.jpeg"
+    "imageURL": "images/Edison  Light Bulb.jpeg"
   },
   {
     "year": 1928,
     "title": "Discovery of Penicillin",
     "description": "Alexander Fleming discovers penicillin, the first widely used antibiotic, revolutionizing medicine.",
-    "imageURL": "Pencillin.jpeg",
+    "imageURL": "images/Pencillin.jpeg",
     "category": "Medicine"
   },
   {
     "year": 1961,
     "title": "First Human in Space",
     "description": "Yuri Gagarin orbits Earth aboard Vostok 1, becoming the first human to travel into space.",
-    "imageURL": "Human space.jpeg",
+    "imageURL": "images/Human space.jpeg",
     "category": "Space"
   },
   {
     "year": 1989,
     "title": "Fall of the Berlin Wall",
     "description": "The Berlin Wall falls, symbolizing the end of the Cold War and the division of Germany.",
-    "imageURL": "Fall of Berlin Wall.jpeg",
+    "imageURL": "images/Fall of Berlin Wall.jpeg",
     "category": "Politics"
   },
   {
     "year": 2008,
     "title": "Launch of the Large Hadron Collider",
     "description": "The Large Hadron Collider begins operation, enabling groundbreaking experiments in particle physics.",
-    "imageURL": "Harden Collider.jpeg",
+    "imageURL": "images/Harden Collider.jpeg",
     "category": "Science"
   }
 ]
